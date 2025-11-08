@@ -20,4 +20,4 @@ The guide includes multiple structured pages with step-by-step instructions, vis
 Below are some screenshots from the Confluence user guide:   
 
 <img src = "Screenshot 2025-11-08 121529.png" height = "400" width = "300">
-  
+< figcaption>Figure 1</figcaption>
