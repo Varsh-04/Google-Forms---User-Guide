@@ -2,7 +2,7 @@
 This project showcases a **User Guide for Google Forms** created using **Confluence**.  
 The guide includes multiple structured pages with step-by-step instructions, visuals, and formatting for clear understanding.  
 
-## 🧾 Project Overview
+## Project Overview
 - Designed a multi-page **User Guide** in Confluence.    
 - Covered topics like:  
   - Introduction to Google Forms    
@@ -11,11 +11,13 @@ The guide includes multiple structured pages with step-by-step instructions, vis
   - Sharing and Settings    
 - Organized pages with hierarchy and linked navigation for easy use.
 
-## 🧰 Tools Used
+## Tools Used
 - **Confluence** – for creating structured documentation    
 - **Markdown** – for formatting and headings    
 - **GitHub** – to host screenshots and showcase work
 
-## 🖼️ Screenshots
-Below are some screenshots from the Confluence user guide:      
+## Screenshots
+Below are some screenshots from the Confluence user guide:   
+
+![Hierachy](Screenshot 2025-11-08 121529.png)  
   
