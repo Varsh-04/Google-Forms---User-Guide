@@ -20,4 +20,13 @@ The guide includes multiple structured pages with step-by-step instructions, vis
 Below are some screenshots from the Confluence user guide:   
 
 <img src = "Screenshot 2025-11-08 121529.png" height = "400" width = "300">
-< figcaption>Figure 1</figcaption>
+<figcaption>Figure 1</figcaption>
+
+<img src = "Screenshot 2025-11-08 115811" height = "400" width = "300">
+<figcaption>Figure 2</figcaption>
+
+## About the Project
+This project demonstrates my ability to:
+- Write clear and structured documentation for end-users.  
+- Use Confluence features like page hierarchy, tables, and visuals.  
+- Present documentation professionally for portfolio and resume use.
