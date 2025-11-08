@@ -22,7 +22,7 @@ Below are some screenshots from the Confluence user guide:
 <img src = "Screenshot 2025-11-08 121529.png" height = "400" width = "300">
 <figcaption>Figure 1</figcaption>
 
-<img src = "Screenshot 2025-11-08 115811" height = "400" width = "300">
+<img src = "Screenshot 2025-11-08 115811.png" height = "400" width = "300">
 <figcaption>Figure 2</figcaption>
 
 ## About the Project
