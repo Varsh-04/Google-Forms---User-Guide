@@ -19,5 +19,5 @@ The guide includes multiple structured pages with step-by-step instructions, vis
 ## Screenshots
 Below are some screenshots from the Confluence user guide:   
 
-![Hierachy](Screenshot 2025-11-08 121529.png)  
+![Hierachy](./Screenshot 2025-11-08 121529.png)  
   
